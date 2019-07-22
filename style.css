@@ -1,0 +1,30 @@
+table {
+   
+    
+    border-collapse: collapse;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    width: 50%;
+    margin-bottom: 30px;
+    table-layout: auto;
+
+}
+td ,th{
+    border: 1px solid black;
+    padding: 8px;
+    text-transform:capitalize;
+}
+input{
+    width: 100%;
+
+}
+
+table.a {
+    table-layout: fixed;
+}
+
+input.a{
+    width: 50%;
+
+}

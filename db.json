@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "firstName": "new",
+      "lastName": "",
+      "email": "abc@gmail.com",
+      "mobile": "7444444444",
+      "id": 1
+    },
+    {
+      "firstName": "q",
+      "lastName": "",
+      "email": "test@test.com",
+      "mobile": "6665677665",
+      "id": 2
+    }
+  ]
+}
